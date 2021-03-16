@@ -16,7 +16,7 @@ After a few moments...
 
 Please visit [this link](http://ec2-18-216-18-180.us-east-2.compute.amazonaws.com/) to view the final product and try it yourself!
 
-Simply add any context paragraph you like, ask a question, and get a response from the model.
+Simply add any context paragraph you like, ask a question regarding that paragraph, and press Submit. A response from the model will be generated after about 20 seconds. 
 
 
 # OpenAI Citation
