@@ -6,8 +6,11 @@ In this project I utilized a pre-trained GPT-2 model (345M) for the task of Ques
 
 ### Demo
 
-![Demo](https://github.com/mattjacobs23/transferNLP/blob/main/gifs/gpt2_recording1.gif)
-![Demo](https://github.com/mattjacobs23/transferNLP/blob/main/gifs/gpt2_recording2.gif)
+![Demo](https://github.com/mattjacobs23/transferNLP/blob/main/gifs/cropped_gpt2_recording1.gif)
+
+After a few moments...
+
+![Demo](https://github.com/mattjacobs23/transferNLP/blob/main/gifs/cropped_gpt2_recording2.gif)
 
 ### How to use
 
