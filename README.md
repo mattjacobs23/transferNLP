@@ -4,7 +4,9 @@ For image classification tasks, transfer learning has proven to be very effectiv
 
 In this project I utilized a pre-trained GPT-2 model (345M) for the task of Question Answering on the [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) dataset, as well as for text generation on a custom dataset. The inference logic is wrapped in a Flask environment, Docker is used to containerize the Flask application, and the Docker container is hosted on an ec2 instance.
 
-Please visit () to view the final product! (Edit: please send me an email at mattjacobs@g.ucla.edu) if you would like the website link, as I am not leaving the ec2 instance running)
+Please visit [this link](http://ec2-18-216-18-180.us-east-2.compute.amazonaws.com/) to view the final product and try it yourself!
+
+Simply add any context paragraph you like, ask a question, and get a response from the model.
 
 
 # OpenAI Citation
