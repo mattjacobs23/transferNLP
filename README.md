@@ -14,7 +14,7 @@ After a few moments...
 
 ### How to use
 
-Please visit [this link](http://ec2-18-216-18-180.us-east-2.compute.amazonaws.com/) to view the final product and try it yourself!
+Please visit [this link](http://ec2-18-216-18-180.us-east-2.compute.amazonaws.com/) to view the final product and try it yourself! (Edit: please email me at mattjacobs@g.ucla.edu to view the website in person as I will not be leaving the EC2 instance running at all times).
 
 Simply add any context paragraph you like, ask a question regarding that paragraph, and press Submit. A response from the model will be generated after about 20 seconds. 
 
